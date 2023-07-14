@@ -11,7 +11,7 @@ Content
 **/StarterContent
 **/Assets
 
-
+.vsconfig
 .vscode
 .vs
 *.VC.db
